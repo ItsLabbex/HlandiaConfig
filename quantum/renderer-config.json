@@ -1,8 +1,8 @@
 {
     "socket.url": "wss://emulator.hlandia.eu:2096",
-    "asset.url": "https://cdn.hlandia.eu:8443/nitro",
-    "image.library.url": "https://cdn.hlandia.eu:8443/c_images/",
-    "hof.furni.url": "https://cdn.hlandia.eu:8443/dcr/hof_furni",
+    "asset.url": "https://cdn.hlandia.eu/nitro",
+    "image.library.url": "https://cdn.hlandia.eu/c_images/",
+    "hof.furni.url": "https://cdn.hlandia.eu/dcr/hof_furni",
     "images.url": "${asset.url}/images",
     "gamedata.url": "${asset.url}/gamedata",
     "sounds.url": "${asset.url}/sounds/%sample%.mp3",
