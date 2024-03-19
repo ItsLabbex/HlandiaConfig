@@ -1,5 +1,5 @@
 {
-    "socket.url": "wss://emulator.hlandia.eu:2096",
+    "socket.url": "ws://emulator.hlandia.eu:2096",
     "asset.url": "https://cdn.hlandia.eu/nitro",
     "image.library.url": "https://cdn.hlandia.eu/c_images/",
     "hof.furni.url": "https://cdn.hlandia.eu/dcr/hof_furni",
